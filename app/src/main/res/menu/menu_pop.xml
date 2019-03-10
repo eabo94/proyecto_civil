@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/insertar"
+        android:title="@string/insertar" />
+
+    <item android:id="@+id/consultar"
+        android:title="@string/consultar"/>
+
+    <item android:id="@+id/actualizar"
+        android:title="@string/actualizar" />
+
+    <item android:id="@+id/eliminar"
+        android:title="@string/Eliminar" />
+
+</menu>
